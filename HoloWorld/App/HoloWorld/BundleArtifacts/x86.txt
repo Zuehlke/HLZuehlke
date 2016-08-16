@@ -1,0 +1,2 @@
+MainPackage=C:\Users\sat\Documents\Projects\HoloWorld\App\HoloWorld\bin\x86\Release\HoloWorld_1.1.2.0_x86.appx
+SymbolPackage=C:\Users\sat\Documents\Projects\HoloWorld\App\HoloWorld\AppPackages\HoloWorld_1.1.2.0_Test\HoloWorld_1.1.2.0_x86.appxsym

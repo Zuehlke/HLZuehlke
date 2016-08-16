@@ -1,0 +1,3 @@
+*.bin
+HoloWorld/App/HoloWorld/obj/
+HoloWorld/UWP/project.lock.json
