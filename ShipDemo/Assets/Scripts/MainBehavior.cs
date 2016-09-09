@@ -158,7 +158,8 @@ public class MainBehavior : MonoBehaviour {
         //if (_mode == InteractionMode.Translate) {
         //    SnapToPlaneWithOffset(0.3f);
         //}
-        _marker.GetComponent<MeshRenderer>().enabled = false;
+        // marker is no longer used
+        //_marker.GetComponent<MeshRenderer>().enabled = false;
     }
 
     private void OnAirTap(InteractionSourceKind source, int tapcount, Ray headray)
