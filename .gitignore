@@ -4,3 +4,5 @@ HoloWorld/UWP/project.lock.json
 HoloPlayEmul/App/HoloPlayEmul/obj/x86/Release/HoloPlayEmul.csproj.FileListAbsolute.txt
 HoloPlayEmul/App/
 HoloPlayEmul/Temp/
+ShipDemo/App/
+*.cache
